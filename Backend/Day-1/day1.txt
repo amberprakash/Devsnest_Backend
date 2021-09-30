@@ -1,0 +1,16 @@
+1)SET name amber
+
+2)GET name
+"amber"
+
+3)KEYS *
+
+4)EXISTS name
+
+5)FLUSHALL
+
+6)ttl name
+
+7)expire name 10
+
+8)setex name amber
