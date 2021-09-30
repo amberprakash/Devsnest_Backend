@@ -3,7 +3,7 @@
 3)PSUBSCRIBE
 4)UNSUBSCRIBE
 5)PUNSUBSCRIBE
-6)XADD mystream 10000 name Aditi
+6)XADD mystream 10000 name Amber
 7)XADD mystream MAXLEN 1000 * name devsnest
 8)XREAD COUNT 200 STREAMS mystream 0
 9)XREAD BLOCK 6000 STREAMS mystream 0
